@@ -6,7 +6,7 @@
       <div>
         I'm <strong>Paul Lee</strong>. 
         <br/><br/>
-        I graduated from the University of California, Santa Cruz, where I received a B.S. in Computer Science: Computer 
+        I graduated from the University of California, Santa Cruz in June of 2022, where I received a B.S. in Computer Science: Computer 
         Game Design. During my time at UCSC, I learned how to program, how to design and create games, and how to work on short-term 
         and long-term projects with a team of people!
         <br/><br/>
