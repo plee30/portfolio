@@ -3,7 +3,7 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      <iframe src="https://drive.google.com/file/d/1Hh5X2yyfU0hE4vJ22JpFR3DU3AYmkXaF/preview" width="800" height="1050" allow="autoplay"></iframe>
+      <iframe src="https://drive.google.com/file/d/1pMJZzAX0_Ze1ODvcrqTOZis53nlBExzp/preview" width="800" height="1050" allow="autoplay"></iframe>
     </div>
 
 

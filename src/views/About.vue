@@ -10,9 +10,10 @@
         Game Design. During my time at UCSC, I learned how to program, how to design and create games, and how to work on short-term 
         and long-term projects with a team of people!
         <br/><br/>
-        I also interned as a Quality Assurance Tester at Activision in 2016 and 2017, where I worked on Call of Duty: WWII & Call of Duty: Infinite Warfare!
+        Most recenlty, I've had the opportunity to work as an WOARior (external contractor) at Riot Games as an Encoding Operator, working for the encoding team for live esports broadcasts!
+        I've also interned as a Quality Assurance Tester at Activision in 2016 and 2017, where I worked on Call of Duty: WWII & Call of Duty: Infinite Warfare!
         <br/><br/>
-        I also like learning speedruns, watching esports & connecting with communities, and doing community management for streamers on Twitch!
+        Aside from making games, I love learning speedruns, watching esports, connecting with communities, and doing community management for streamers on Twitch!
       </div> <br/>
 
       <div style="margin-top: 20px;">If you want to see what I've done, you can check out my  <router-link to="/game-projects">games</router-link>, my <router-link to="/other-projects">non-games projects</router-link>, or my <router-link to="/resume">resume</router-link>!</div>
